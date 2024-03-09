@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+.nav-header {
+  height: 25vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.blog-container {
+  display: flex;
+  justify-content: space-between;
+  width: 90vw;
+}
+.wave-img {
+  height: 48px;
+  width: 48px;
+}
+.nav-menu {
+  display: flex;
+  list-style-type: none;
+}
+li {
+  margin-left: 10px;
+  text-decoration: none;
+  list-style-type: none;
+  color: #12022f;
+  font-weight: bold;
+  font-family: roboto;
+}
+nav.link {
+  text-decoration: none;
+  color: #12022f;
+  font-weight: bold;
+}
